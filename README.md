@@ -12,7 +12,7 @@ MechaCar has an issue to prevent the production progress.  We will use our R ana
 
 The linear regression of MPG related to vehicle_length, vehicle_weight, spoiler_angle, ground_clearance and AWD is shown in the following image:
 
-![image-20220921214154589](Resources\image-20220921214154589.png)
+![image-20220921214154589](Resources/image-20220921214154589.png)
 
 We will answer the following questions:
 
@@ -36,13 +36,13 @@ The total_summary and the lot_summary of the suspension coils PSI values:
 
 ​																					**total_summary**
 
-![image-20220917214748660](Resources\image-20220917214748660.png)
+![image-20220917214748660](Resources/image-20220917214748660.png)
 
 
 
 ​																						**lot_summary**
 
-![image-20220917214711623](Resources\image-20220917214711623.png)
+![image-20220917214711623](Resources/image-20220917214711623.png)
 
 
 
@@ -66,7 +66,7 @@ The t-test shows us that the suspension coils meet the required 1500 PSI with me
 
 
 
-![image-20220917214940890](Resources\image-20220917214940890.png)
+![image-20220917214940890](Resources/image-20220917214940890.png)
 
 #### Individual 3 lots:
 
@@ -76,13 +76,13 @@ It also shows us that the suspension coils manufactured in the **Lot 3 do not** 
 
 
 
-![image-20220917215006719](Resources\image-20220917215006719.png)
+![image-20220917215006719](Resources/image-20220917215006719.png)
 
 
 
-![image-20220917215041301](Resources\image-20220917215041301.png)
+![image-20220917215041301](Resources/image-20220917215041301.png)
 
-![image-20220917215106906](Resources\image-20220917215106906.png)
+![image-20220917215106906](Resources/image-20220917215106906.png)
 
 
 
